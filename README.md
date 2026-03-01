@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/adwaid-p/Leetcode/tree/master/0035-search-insert-position) |
 | [0560-subarray-sum-equals-k](https://github.com/adwaid-p/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/adwaid-p/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/adwaid-p/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Hash Table
 |  |
@@ -24,4 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/adwaid-p/Leetcode/tree/master/0035-search-insert-position) |
+## Math
+|  |
+| ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/adwaid-p/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+## Sorting
+|  |
+| ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/adwaid-p/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 <!---LeetCode Topics End-->
