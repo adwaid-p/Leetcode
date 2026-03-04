@@ -2,6 +2,7 @@ class Solution:
     def subsets(self, nums: List[int]) -> List[List[int]]:
         result = []
         ans = []
+        nums.sort()
         def addSubset(nums, ans, i):
             if i == len(nums):
                 result.append(ans.copy())
