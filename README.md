@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/adwaid-p/Leetcode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/adwaid-p/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/adwaid-p/Leetcode/tree/master/0204-count-primes) |
+| [0371-sum-of-two-integers](https://github.com/adwaid-p/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/adwaid-p/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Sorting
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/adwaid-p/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/adwaid-p/Leetcode/tree/master/0090-subsets-ii) |
+| [0371-sum-of-two-integers](https://github.com/adwaid-p/Leetcode/tree/master/0371-sum-of-two-integers) |
 ## Enumeration
 |  |
 | ------- |
