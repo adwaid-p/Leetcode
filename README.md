@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/adwaid-p/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/adwaid-p/Leetcode/tree/master/0035-search-insert-position) |
 | [0078-subsets](https://github.com/adwaid-p/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/adwaid-p/Leetcode/tree/master/0090-subsets-ii) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/adwaid-p/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/adwaid-p/Leetcode/tree/master/0035-search-insert-position) |
 ## Math
 |  |
