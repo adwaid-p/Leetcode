@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/adwaid-p/Leetcode/tree/master/0035-search-insert-position) |
 | [0078-subsets](https://github.com/adwaid-p/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/adwaid-p/Leetcode/tree/master/0090-subsets-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/adwaid-p/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/adwaid-p/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/adwaid-p/Leetcode/tree/master/0204-count-primes) |
 | [0560-subarray-sum-equals-k](https://github.com/adwaid-p/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/adwaid-p/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/adwaid-p/Leetcode/tree/master/0035-search-insert-position) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/adwaid-p/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Math
 |  |
 | ------- |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/adwaid-p/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/adwaid-p/Leetcode/tree/master/0189-rotate-array) |
 ## Counting Sort
 |  |
