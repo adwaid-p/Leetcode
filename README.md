@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/adwaid-p/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/adwaid-p/Leetcode/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/adwaid-p/Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/adwaid-p/Leetcode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/adwaid-p/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/adwaid-p/Leetcode/tree/master/0090-subsets-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adwaid-p/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/adwaid-p/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/adwaid-p/Leetcode/tree/master/0016-3sum-closest) |
+| [0047-permutations-ii](https://github.com/adwaid-p/Leetcode/tree/master/0047-permutations-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/adwaid-p/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1122-relative-sort-array](https://github.com/adwaid-p/Leetcode/tree/master/1122-relative-sort-array) |
 ## Two Pointers
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/adwaid-p/Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/adwaid-p/Leetcode/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/adwaid-p/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/adwaid-p/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/adwaid-p/Leetcode/tree/master/0090-subsets-ii) |
