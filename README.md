@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/adwaid-p/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/adwaid-p/Leetcode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/adwaid-p/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/adwaid-p/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/adwaid-p/Leetcode/tree/master/0090-subsets-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adwaid-p/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/adwaid-p/Leetcode/tree/master/0189-rotate-array) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/adwaid-p/Leetcode/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/adwaid-p/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/adwaid-p/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/adwaid-p/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/adwaid-p/Leetcode/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
@@ -117,4 +119,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/adwaid-p/Leetcode/tree/master/0912-sort-an-array) |
+## String
+|  |
+| ------- |
+| [0079-word-search](https://github.com/adwaid-p/Leetcode/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/adwaid-p/Leetcode/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/adwaid-p/Leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
