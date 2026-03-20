@@ -26,4 +26,3 @@ class Solution:
             return result
         
         return mergeSort(nums)
-                
