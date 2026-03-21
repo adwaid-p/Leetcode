@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/adwaid-p/Leetcode/tree/master/0204-count-primes) |
 | [0371-sum-of-two-integers](https://github.com/adwaid-p/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/adwaid-p/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/adwaid-p/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Sorting
 |  |
 | ------- |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/adwaid-p/Leetcode/tree/master/0079-word-search) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/adwaid-p/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Depth-First Search
 |  |
 | ------- |
