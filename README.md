@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/adwaid-p/Leetcode/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/adwaid-p/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/adwaid-p/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/adwaid-p/Leetcode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/adwaid-p/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/adwaid-p/Leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/adwaid-p/Leetcode/tree/master/0724-find-pivot-index) |
@@ -157,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/adwaid-p/Leetcode/tree/master/0079-word-search) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/adwaid-p/Leetcode/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
