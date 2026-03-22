@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/adwaid-p/Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/adwaid-p/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/adwaid-p/Leetcode/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/adwaid-p/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/adwaid-p/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1122-relative-sort-array](https://github.com/adwaid-p/Leetcode/tree/master/1122-relative-sort-array) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/adwaid-p/Leetcode/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/adwaid-p/Leetcode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/adwaid-p/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/adwaid-p/Leetcode/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/adwaid-p/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/adwaid-p/Leetcode/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/adwaid-p/Leetcode/tree/master/1051-height-checker) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/adwaid-p/Leetcode/tree/master/0079-word-search) |
+| [0242-valid-anagram](https://github.com/adwaid-p/Leetcode/tree/master/0242-valid-anagram) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/adwaid-p/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Depth-First Search
 |  |
