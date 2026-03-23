@@ -13,3 +13,4 @@ class Solution:
         for i in range(k):
             nums[i] = temp[i]
         return nums
+        
