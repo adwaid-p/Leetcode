@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/adwaid-p/Leetcode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/adwaid-p/Leetcode/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adwaid-p/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/adwaid-p/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/adwaid-p/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Hash Table
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/adwaid-p/Leetcode/tree/master/0645-set-mismatch) |
 | [1122-relative-sort-array](https://github.com/adwaid-p/Leetcode/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adwaid-p/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/adwaid-p/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/adwaid-p/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Prefix Sum
 |  |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/adwaid-p/Leetcode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/adwaid-p/Leetcode/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adwaid-p/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/adwaid-p/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/adwaid-p/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/adwaid-p/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/adwaid-p/Leetcode/tree/master/0443-string-compression) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/adwaid-p/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Counting Sort
 |  |
 | ------- |
