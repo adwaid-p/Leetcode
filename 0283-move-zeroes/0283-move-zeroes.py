@@ -8,5 +8,6 @@ class Solution:
             if nums[i] != 0:
                 nums[l] = nums[i]
                 l += 1
-        for i in range(l, len(nums)):
-            nums[i] = 0
+        while l < len(nums):
+            nums[l] = 0
+            l += 1
