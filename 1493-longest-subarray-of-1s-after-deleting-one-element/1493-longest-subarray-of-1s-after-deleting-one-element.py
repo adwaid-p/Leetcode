@@ -12,4 +12,4 @@ class Solution:
                     k += 1
                 left += 1
             maxLen = max(maxLen, right - left + 1)
-        return maxLen - 1 
+        return maxLen - 1
