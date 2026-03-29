@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/adwaid-p/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1051-height-checker](https://github.com/adwaid-p/Leetcode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/adwaid-p/Leetcode/tree/master/1122-relative-sort-array) |
+| [1207-unique-number-of-occurrences](https://github.com/adwaid-p/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adwaid-p/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/adwaid-p/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/adwaid-p/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/adwaid-p/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/adwaid-p/Leetcode/tree/master/0645-set-mismatch) |
 | [1122-relative-sort-array](https://github.com/adwaid-p/Leetcode/tree/master/1122-relative-sort-array) |
+| [1207-unique-number-of-occurrences](https://github.com/adwaid-p/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adwaid-p/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/adwaid-p/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/adwaid-p/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
