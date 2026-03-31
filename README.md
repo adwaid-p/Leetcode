@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/adwaid-p/Leetcode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/adwaid-p/Leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/adwaid-p/Leetcode/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/adwaid-p/Leetcode/tree/master/0735-asteroid-collision) |
 | [0912-sort-an-array](https://github.com/adwaid-p/Leetcode/tree/master/0912-sort-an-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/adwaid-p/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1051-height-checker](https://github.com/adwaid-p/Leetcode/tree/master/1051-height-checker) |
@@ -221,10 +222,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/adwaid-p/Leetcode/tree/master/0735-asteroid-collision) |
 | [2352-equal-row-and-column-pairs](https://github.com/adwaid-p/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/adwaid-p/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/adwaid-p/Leetcode/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/adwaid-p/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
