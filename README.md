@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/adwaid-p/Leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/adwaid-p/Leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/adwaid-p/Leetcode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/adwaid-p/Leetcode/tree/master/0739-daily-temperatures) |
 | [0912-sort-an-array](https://github.com/adwaid-p/Leetcode/tree/master/0912-sort-an-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/adwaid-p/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1051-height-checker](https://github.com/adwaid-p/Leetcode/tree/master/1051-height-checker) |
@@ -233,9 +234,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/adwaid-p/Leetcode/tree/master/0020-valid-parentheses) |
 | [0394-decode-string](https://github.com/adwaid-p/Leetcode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/adwaid-p/Leetcode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/adwaid-p/Leetcode/tree/master/0739-daily-temperatures) |
 | [2390-removing-stars-from-a-string](https://github.com/adwaid-p/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Recursion
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/adwaid-p/Leetcode/tree/master/0394-decode-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/adwaid-p/Leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
