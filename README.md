@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/adwaid-p/Leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/adwaid-p/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/adwaid-p/Leetcode/tree/master/0090-subsets-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/adwaid-p/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adwaid-p/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/adwaid-p/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/adwaid-p/Leetcode/tree/master/0204-count-primes) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/adwaid-p/Leetcode/tree/master/0009-palindrome-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/adwaid-p/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/adwaid-p/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/adwaid-p/Leetcode/tree/master/0204-count-primes) |
 | [0371-sum-of-two-integers](https://github.com/adwaid-p/Leetcode/tree/master/0371-sum-of-two-integers) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/adwaid-p/Leetcode/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/adwaid-p/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0394-decode-string](https://github.com/adwaid-p/Leetcode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/adwaid-p/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/adwaid-p/Leetcode/tree/master/0739-daily-temperatures) |
