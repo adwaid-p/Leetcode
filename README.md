@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/adwaid-p/Leetcode/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/adwaid-p/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0225-implement-stack-using-queues](https://github.com/adwaid-p/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0394-decode-string](https://github.com/adwaid-p/Leetcode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/adwaid-p/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/adwaid-p/Leetcode/tree/master/0739-daily-temperatures) |
@@ -250,10 +251,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/adwaid-p/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0933-number-of-recent-calls](https://github.com/adwaid-p/Leetcode/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/adwaid-p/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0933-number-of-recent-calls](https://github.com/adwaid-p/Leetcode/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
