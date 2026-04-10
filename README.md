@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/adwaid-p/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/adwaid-p/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/adwaid-p/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
+| [2574-left-and-right-sum-differences](https://github.com/adwaid-p/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/adwaid-p/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Hash Table
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/adwaid-p/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1732-find-the-highest-altitude](https://github.com/adwaid-p/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/adwaid-p/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
+| [2574-left-and-right-sum-differences](https://github.com/adwaid-p/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 ## Counting
 |  |
 | ------- |
