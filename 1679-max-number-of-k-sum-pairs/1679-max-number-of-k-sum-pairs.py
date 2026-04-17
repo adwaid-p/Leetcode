@@ -1,18 +1,14 @@
 class Solution:
     def maxOperations(self, nums: List[int], k: int) -> int:
-        nums.sort()
         count = 0
-        left = 0
-        right = len(nums) - 1
+        freq = {}
 
-        while left < right:
-            sum = nums[left] + nums[right]
-            if sum == k:
+        for num in nums:
+            complement = k - num
+            if freq.get(complement, 0) > 0:
                 count += 1
-                left += 1
-                right -= 1
-            elif sum < k:
-                left += 1
+                freq[complement] -= 1
             else:
-                right -= 1
+                freq[num] = freq.get(num, 0) + 1
+        
         return count
