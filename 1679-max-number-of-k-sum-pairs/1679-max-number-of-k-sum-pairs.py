@@ -11,4 +11,4 @@ class Solution:
             else:
                 freq[num] = freq.get(num, 0) + 1
         
-        return count
+        return count 
