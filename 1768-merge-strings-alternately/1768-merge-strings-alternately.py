@@ -10,4 +10,4 @@ class Solution:
         merged += word1[i:]
         merged += word2[i:]
     
-        return merged 
+        return merged
