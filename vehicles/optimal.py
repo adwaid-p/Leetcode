@@ -24,7 +24,11 @@
 # V<W
 # Print “INVALID INPUT” , if inputs did not meet the constraints.
 
+
+
+
 v = int(input())
+
 w = int(input())
 
 if w < 2 or w % 2 != 0 or v >= w:
