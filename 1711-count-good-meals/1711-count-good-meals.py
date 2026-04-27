@@ -11,6 +11,7 @@ class Solution:
         for num in deliciousness:
             for power in powers:
                 complement = power - num
+                
                 if complement in freq:
                     pairs += freq[complement]
                     pairs %= MOD
