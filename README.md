@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/adwaid-p/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/adwaid-p/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2390-removing-stars-from-a-string](https://github.com/adwaid-p/Leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [3110-score-of-a-string](https://github.com/adwaid-p/Leetcode/tree/master/3110-score-of-a-string) |
 ## Depth-First Search
 |  |
 | ------- |
