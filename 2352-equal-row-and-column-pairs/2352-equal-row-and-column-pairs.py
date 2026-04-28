@@ -5,6 +5,7 @@ class Solution:
 
         for r in grid:
             row[tuple(r)] = row.get(tuple(r), 0) + 1
+            
         for j in range(len(grid[0])):
             c = []
             for i in range(len(grid)):
@@ -15,4 +16,5 @@ class Solution:
         for r in row:
             if r in column:
                 count += row[r] * column[r]
+
         return count
