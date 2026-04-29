@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/adwaid-p/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/adwaid-p/Leetcode/tree/master/0113-path-sum-ii) |
 | [0437-path-sum-iii](https://github.com/adwaid-p/Leetcode/tree/master/0437-path-sum-iii) |
+| [0543-diameter-of-binary-tree](https://github.com/adwaid-p/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/adwaid-p/Leetcode/tree/master/0872-leaf-similar-trees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/adwaid-p/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Matrix
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/adwaid-p/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/adwaid-p/Leetcode/tree/master/0113-path-sum-ii) |
 | [0437-path-sum-iii](https://github.com/adwaid-p/Leetcode/tree/master/0437-path-sum-iii) |
+| [0543-diameter-of-binary-tree](https://github.com/adwaid-p/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/adwaid-p/Leetcode/tree/master/0872-leaf-similar-trees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/adwaid-p/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/adwaid-p/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/adwaid-p/Leetcode/tree/master/0113-path-sum-ii) |
 | [0437-path-sum-iii](https://github.com/adwaid-p/Leetcode/tree/master/0437-path-sum-iii) |
+| [0543-diameter-of-binary-tree](https://github.com/adwaid-p/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/adwaid-p/Leetcode/tree/master/0872-leaf-similar-trees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/adwaid-p/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 <!---LeetCode Topics End-->
