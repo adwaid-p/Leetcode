@@ -20,6 +20,6 @@ class Solution:
             dfs(node.left, num)
             dfs(node.right, num)            
         
-        dfs(root, '')
+        dfs(root, '') 
         return self.totalSum
         
