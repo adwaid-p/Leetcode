@@ -19,6 +19,6 @@ class Solution:
             even.next = even.next.next
             even = even.next
 
-        odd.next = evenHead
+        odd.next = evenHead 
         
         return head
