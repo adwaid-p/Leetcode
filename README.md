@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0687-longest-univalue-path](https://github.com/adwaid-p/Leetcode/tree/master/0687-longest-univalue-path) |
 | [0872-leaf-similar-trees](https://github.com/adwaid-p/Leetcode/tree/master/0872-leaf-similar-trees) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/adwaid-p/Leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/adwaid-p/Leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/adwaid-p/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Matrix
 |  |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/adwaid-p/Leetcode/tree/master/0392-is-subsequence) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/adwaid-p/Leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/adwaid-p/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Sliding Window
 |  |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0687-longest-univalue-path](https://github.com/adwaid-p/Leetcode/tree/master/0687-longest-univalue-path) |
 | [0872-leaf-similar-trees](https://github.com/adwaid-p/Leetcode/tree/master/0872-leaf-similar-trees) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/adwaid-p/Leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/adwaid-p/Leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/adwaid-p/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -338,5 +341,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0687-longest-univalue-path](https://github.com/adwaid-p/Leetcode/tree/master/0687-longest-univalue-path) |
 | [0872-leaf-similar-trees](https://github.com/adwaid-p/Leetcode/tree/master/0872-leaf-similar-trees) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/adwaid-p/Leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/adwaid-p/Leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/adwaid-p/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 <!---LeetCode Topics End-->
