@@ -11,9 +11,9 @@ class Solution:
         def dfs(node, left, curr):
             if not node:
                 return
-            
+
             self.path = max(self.path, curr)
-            
+
             if left:
                 dfs(node.right, False, curr + 1)
                 dfs(node.left, True, 1)
@@ -23,4 +23,5 @@ class Solution:
             
         dfs(root.left, True, 1)
         dfs(root.right, False, 1)
+
         return self.path
