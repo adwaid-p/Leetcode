@@ -326,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/adwaid-p/Leetcode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/adwaid-p/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/adwaid-p/Leetcode/tree/master/0687-longest-univalue-path) |
+| [0700-search-in-a-binary-search-tree](https://github.com/adwaid-p/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/adwaid-p/Leetcode/tree/master/0872-leaf-similar-trees) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/adwaid-p/Leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/adwaid-p/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/adwaid-p/Leetcode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/adwaid-p/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/adwaid-p/Leetcode/tree/master/0687-longest-univalue-path) |
+| [0700-search-in-a-binary-search-tree](https://github.com/adwaid-p/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/adwaid-p/Leetcode/tree/master/0872-leaf-similar-trees) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/adwaid-p/Leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/adwaid-p/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -361,4 +363,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/adwaid-p/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/adwaid-p/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
