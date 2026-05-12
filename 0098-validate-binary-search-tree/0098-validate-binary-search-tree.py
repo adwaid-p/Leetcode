@@ -21,8 +21,6 @@ class Solution:
             validate(node.left, lower, node.val)
             validate(node.right, node.val, higher)
 
-            
-
         lower = float('-inf')
         higher = float('inf')
         validate(root, lower, higher)
