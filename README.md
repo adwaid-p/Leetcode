@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/adwaid-p/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/adwaid-p/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/adwaid-p/Leetcode/tree/master/0437-path-sum-iii) |
+| [0538-convert-bst-to-greater-tree](https://github.com/adwaid-p/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/adwaid-p/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/adwaid-p/Leetcode/tree/master/0687-longest-univalue-path) |
 | [0872-leaf-similar-trees](https://github.com/adwaid-p/Leetcode/tree/master/0872-leaf-similar-trees) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/adwaid-p/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/adwaid-p/Leetcode/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/adwaid-p/Leetcode/tree/master/0450-delete-node-in-a-bst) |
+| [0538-convert-bst-to-greater-tree](https://github.com/adwaid-p/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/adwaid-p/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/adwaid-p/Leetcode/tree/master/0687-longest-univalue-path) |
 | [0700-search-in-a-binary-search-tree](https://github.com/adwaid-p/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/adwaid-p/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/adwaid-p/Leetcode/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/adwaid-p/Leetcode/tree/master/0450-delete-node-in-a-bst) |
+| [0538-convert-bst-to-greater-tree](https://github.com/adwaid-p/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/adwaid-p/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/adwaid-p/Leetcode/tree/master/0687-longest-univalue-path) |
 | [0700-search-in-a-binary-search-tree](https://github.com/adwaid-p/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
@@ -370,5 +373,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/adwaid-p/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/adwaid-p/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/adwaid-p/Leetcode/tree/master/0450-delete-node-in-a-bst) |
+| [0538-convert-bst-to-greater-tree](https://github.com/adwaid-p/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/adwaid-p/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
