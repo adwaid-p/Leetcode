@@ -13,7 +13,7 @@ class Solution:
         def dfs(root, tempList):
             if not root:
                 return
-
+ 
             tempList.append(root)
 
             if root == p:
@@ -31,4 +31,4 @@ class Solution:
         qSet = set(self.qList)
         result = [node for node in self.pList if node in qSet]
 
-        return result[-1]
+        return result[-1] 
