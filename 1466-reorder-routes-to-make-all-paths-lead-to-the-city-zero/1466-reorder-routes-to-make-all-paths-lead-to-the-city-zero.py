@@ -1,6 +1,7 @@
 from collections import deque
 class Solution:
     def minReorder(self, n: int, connections: List[List[int]]) -> int:
+        
         adj = [[] for _ in range(n)]
 
         for city1, city2 in connections:
