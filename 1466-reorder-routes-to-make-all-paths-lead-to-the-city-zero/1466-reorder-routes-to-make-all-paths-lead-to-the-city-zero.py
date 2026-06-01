@@ -13,7 +13,7 @@ class Solution:
         queue = deque([0])
         visited = [False] * n
         visited[0] = True
-
+ 
         while queue:
             current_city = queue.popleft()
 
