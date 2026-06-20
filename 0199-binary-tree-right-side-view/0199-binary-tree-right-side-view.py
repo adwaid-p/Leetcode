@@ -32,4 +32,4 @@ class Solution:
                 if i == levelSize - 1:
                     result.append(node.val)
         
-        return result
+        return result 
