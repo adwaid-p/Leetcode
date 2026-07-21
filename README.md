@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/adwaid-p/Leetcode/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/adwaid-p/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/adwaid-p/Leetcode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/adwaid-p/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/adwaid-p/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/adwaid-p/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/adwaid-p/Leetcode/tree/master/0079-word-search) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adwaid-p/Leetcode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/adwaid-p/Leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/adwaid-p/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/adwaid-p/Leetcode/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/adwaid-p/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/adwaid-p/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/adwaid-p/Leetcode/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/adwaid-p/Leetcode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/adwaid-p/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/adwaid-p/Leetcode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/adwaid-p/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/adwaid-p/Leetcode/tree/master/0242-valid-anagram) |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/adwaid-p/Leetcode/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/adwaid-p/Leetcode/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/adwaid-p/Leetcode/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/adwaid-p/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/adwaid-p/Leetcode/tree/master/0242-valid-anagram) |
