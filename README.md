@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/adwaid-p/Leetcode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/adwaid-p/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/adwaid-p/Leetcode/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/adwaid-p/Leetcode/tree/master/0077-combinations) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/adwaid-p/Leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/adwaid-p/Leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/adwaid-p/Leetcode/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/adwaid-p/Leetcode/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/adwaid-p/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/adwaid-p/Leetcode/tree/master/0022-generate-parentheses) |
 | [0392-is-subsequence](https://github.com/adwaid-p/Leetcode/tree/master/0392-is-subsequence) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/adwaid-p/Leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/adwaid-p/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
