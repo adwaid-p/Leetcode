@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/adwaid-p/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/adwaid-p/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/adwaid-p/Leetcode/tree/master/0645-set-mismatch) |
+| [0763-partition-labels](https://github.com/adwaid-p/Leetcode/tree/master/0763-partition-labels) |
 | [0904-fruit-into-baskets](https://github.com/adwaid-p/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/adwaid-p/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1122-relative-sort-array](https://github.com/adwaid-p/Leetcode/tree/master/1122-relative-sort-array) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/adwaid-p/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/adwaid-p/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/adwaid-p/Leetcode/tree/master/0443-string-compression) |
+| [0763-partition-labels](https://github.com/adwaid-p/Leetcode/tree/master/0763-partition-labels) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/adwaid-p/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/adwaid-p/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/adwaid-p/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/adwaid-p/Leetcode/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/adwaid-p/Leetcode/tree/master/0443-string-compression) |
 | [0649-dota2-senate](https://github.com/adwaid-p/Leetcode/tree/master/0649-dota2-senate) |
+| [0763-partition-labels](https://github.com/adwaid-p/Leetcode/tree/master/0763-partition-labels) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/adwaid-p/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/adwaid-p/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/adwaid-p/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/adwaid-p/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/adwaid-p/Leetcode/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/adwaid-p/Leetcode/tree/master/0649-dota2-senate) |
+| [0763-partition-labels](https://github.com/adwaid-p/Leetcode/tree/master/0763-partition-labels) |
 ## Dynamic Programming
 |  |
 | ------- |
