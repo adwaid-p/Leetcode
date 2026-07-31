@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/adwaid-p/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/adwaid-p/Leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/adwaid-p/Leetcode/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/adwaid-p/Leetcode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/adwaid-p/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/adwaid-p/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/adwaid-p/Leetcode/tree/master/0079-word-search) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/adwaid-p/Leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/adwaid-p/Leetcode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/adwaid-p/Leetcode/tree/master/0134-gas-station) |
 | [0334-increasing-triplet-subsequence](https://github.com/adwaid-p/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/adwaid-p/Leetcode/tree/master/0605-can-place-flowers) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/adwaid-p/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/adwaid-p/Leetcode/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/adwaid-p/Leetcode/tree/master/0055-jump-game) |
 | [0392-is-subsequence](https://github.com/adwaid-p/Leetcode/tree/master/0392-is-subsequence) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/adwaid-p/Leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/adwaid-p/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
