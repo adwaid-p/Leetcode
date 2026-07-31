@@ -4,10 +4,8 @@ class Solution:
 
         i = len(nums) - 2
         while i >= 0:
-            for j in range(1, nums[i] + 1):
-                if i + j == end:
-                    end = i
-                    break
+            if nums[i] + i >= end:
+                end = i
             i -= 1
         
         return end == 0
