@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adwaid-p/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1657-determine-if-two-strings-are-close](https://github.com/adwaid-p/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/adwaid-p/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1859-sorting-the-sentence](https://github.com/adwaid-p/Leetcode/tree/master/1859-sorting-the-sentence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/adwaid-p/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/adwaid-p/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/adwaid-p/Leetcode/tree/master/1768-merge-strings-alternately) |
+| [1859-sorting-the-sentence](https://github.com/adwaid-p/Leetcode/tree/master/1859-sorting-the-sentence) |
 | [2390-removing-stars-from-a-string](https://github.com/adwaid-p/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3110-score-of-a-string](https://github.com/adwaid-p/Leetcode/tree/master/3110-score-of-a-string) |
 ## Depth-First Search
@@ -459,4 +461,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/adwaid-p/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+## Bubble Sort
+|  |
+| ------- |
+| [1859-sorting-the-sentence](https://github.com/adwaid-p/Leetcode/tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->
