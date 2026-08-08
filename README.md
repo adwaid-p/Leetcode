@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/adwaid-p/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/adwaid-p/Leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/adwaid-p/Leetcode/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/adwaid-p/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/adwaid-p/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/adwaid-p/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/adwaid-p/Leetcode/tree/master/0226-invert-binary-tree) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/adwaid-p/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/adwaid-p/Leetcode/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/adwaid-p/Leetcode/tree/master/0055-jump-game) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/adwaid-p/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0392-is-subsequence](https://github.com/adwaid-p/Leetcode/tree/master/0392-is-subsequence) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/adwaid-p/Leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/adwaid-p/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/adwaid-p/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/adwaid-p/Leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/adwaid-p/Leetcode/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/adwaid-p/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/adwaid-p/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/adwaid-p/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/adwaid-p/Leetcode/tree/master/0222-count-complete-tree-nodes) |
@@ -417,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/adwaid-p/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/adwaid-p/Leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/adwaid-p/Leetcode/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/adwaid-p/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/adwaid-p/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/adwaid-p/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/adwaid-p/Leetcode/tree/master/0222-count-complete-tree-nodes) |
@@ -460,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/adwaid-p/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/adwaid-p/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Bubble Sort
 |  |
