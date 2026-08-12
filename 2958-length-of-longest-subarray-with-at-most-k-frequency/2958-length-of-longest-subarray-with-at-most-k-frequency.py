@@ -1,13 +1,15 @@
+from collections import defaultdict
+
 class Solution:
     def maxSubarrayLength(self, nums: List[int], k: int) -> int:
-        frq = {}
-        maxLen = 0
+        frq = defaultdict(int)
         left = 0
+        maxLen = 0
 
-        for right in range(len(nums)):
-            frq[nums[right]] = frq.get(nums[right],0) + 1
+        for right, num in enumerate(nums):
+            frq[num] += 1
             
-            while frq[nums[right]] > k:
+            while frq[num] > k:
                 frq[nums[left]] -= 1
                 left += 1
                 
