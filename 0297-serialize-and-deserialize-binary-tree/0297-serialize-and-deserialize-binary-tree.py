@@ -48,7 +48,7 @@ class Codec:
 
             if i < len(data) and data[i] != 'N':
                 node.right = TreeNode(int(data[i]))
-                q.append(node.right)
+                q.append(   node.right)
             i += 1
 
         return root 
