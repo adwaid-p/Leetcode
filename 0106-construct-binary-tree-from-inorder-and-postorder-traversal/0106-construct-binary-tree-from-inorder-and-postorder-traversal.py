@@ -16,3 +16,4 @@ class Solution:
         root.left = self.buildTree(inorder[:mid], postorder[:mid])
 
         return root
+        
